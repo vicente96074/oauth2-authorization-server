@@ -1,3 +1,4 @@
+/*
 package com.tutorial.authorizationserver.config;
 
 import com.tutorial.authorizationserver.entity.Role;
@@ -22,3 +23,4 @@ public class Creator implements CommandLineRunner {
 
     private final RoleRepository roleRepository;
 }
+*/
